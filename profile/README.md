@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.svg" alt="MKV-Auto" width="200" />
+  <img src="../assets/logo.svg" alt="MKV-Auto" width="200" />
 </p>
 
 # MKV-Auto
